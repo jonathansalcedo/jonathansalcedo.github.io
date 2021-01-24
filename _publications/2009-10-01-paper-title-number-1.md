@@ -11,4 +11,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Lam J, Hay JW, Salcedo J, Kenyon NJ. Cost-Eectiveness Analysis of Reslizumab in Patients with Poorly Controlled Eosinophilic Asthma. Journal of Asthma. 2018:1-10. doi: 10.1080/02770903.2018.1500584.
+Lam J, Hay JW, Salcedo J, Kenyon NJ. Cost-Effectiveness Analysis of Reslizumab in Patients with Poorly Controlled Eosinophilic Asthma. Journal of Asthma. 2018:1-10. doi: 10.1080/02770903.2018.1500584.
