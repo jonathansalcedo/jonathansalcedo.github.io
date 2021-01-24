@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-CV
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
