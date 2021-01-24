@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Salcedo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Pharmaceutical and Health Economist"
   location         : "Boston, MA"
   employer         : "Medicus Economics, LLC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1TYHbdXqWCU5l/bibliography/public/"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/salcedoj"
   orcid            : "http://orcid.org/0000-0003-2748-1011"
   pinterest        :
   soundcloud       :
