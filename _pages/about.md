@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. You can access my CV [here](http://bit.ly/jonsal-cv).
+I am currently a full-time consultant in health economics & outcomes research at Medicus Economics, LLC. I earned my Ph.D. from the [Department of Pharmaceutical and Health Economics at the University of Southern California](https://healthpolicy.usc.edu/) and my M.A. from the [Department of Economics at Duke University](https://econ.duke.edu/). I also hold B.A. degrees in Mathematics and Economics from the [California State University, Fresno](https://www.csufresno.edu/). My current work focuses on health technology assessment including the evaluation of medical and pharmaceutical interventions through cost-effectiveness analysis. You can access my CV [here](http://bit.ly/jonsal-cv).
