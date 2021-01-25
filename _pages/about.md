@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. You can access my CV [here](https://1drv.ms/b/s!AibbTbOFTuvshctXccvC22nlB8eDCg).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. You can access my CV [here](https://onedrive.live.com/download?cid=ECEB4E85B34DDB26&resid=ECEB4E85B34DDB26%2191607&authkey=AFOxHHNQpx5nAVg&em=2).
 
 A data-driven personal website
 ======
