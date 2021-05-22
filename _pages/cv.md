@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ======
+CV download link [here](http://bit.ly/jonsal-cv).
 
 <iframe src="https://onedrive.live.com/embed?cid=ECEB4E85B34DDB26&resid=ECEB4E85B34DDB26%2191607&authkey=AFOxHHNQpx5nAVg&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
