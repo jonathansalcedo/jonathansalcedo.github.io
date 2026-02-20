@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download link [here](https://1drv.ms/b/c/eceb4e85b34ddb26/IQAm202zhU7rIIDs12UBAAAAASVki_MAeBW7cqaLII73ukU).
 
 <iframe src="https://1drv.ms/b/c/eceb4e85b34ddb26/IQQm202zhU7rIIDs12UBAAAAAckLC6q9x7l_l1eNeoqanQE" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
