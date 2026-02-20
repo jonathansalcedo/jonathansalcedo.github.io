@@ -12,4 +12,4 @@ I am currently Director, Health Economics & Outcomes Research, Oncology Asset Le
 
 I received my Ph.D. from the Department of Pharmaceutical and Health Economics at the [University of Southern California](https://healthpolicy.usc.edu/) and my M.A. from the Department of Economics at [Duke University](https://econ.duke.edu/). I also hold a B.A. in Mathematics and Economics from the [California State University, Fresno](https://www.csufresno.edu/). 
 
-My work focuses on health technology assessment including the evaluation of medical and pharmaceutical interventions through cost-effectiveness analysis. You can access my CV [here](https://1drv.ms/b/c/eceb4e85b34ddb26/IQAm202zhU7rIIDs12UBAAAAASVki_MAeBW7cqaLII73ukU).
+My work focuses on health technology assessment including the evaluation of medical and pharmaceutical interventions through cost-effectiveness analysis. You can access my CV [here](https://jonathansalcedo.github.io/cv/).
